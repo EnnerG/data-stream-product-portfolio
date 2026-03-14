@@ -9,21 +9,21 @@ Welcome to my curated portfolio showcasing product ownership, data lifecycle exp
 ## 🔹 1. Unified Customer Data Stream — Mini Product Backlog
 A concise, prioritized backlog demonstrating agile delivery, user story refinement, and data product requirements.
 
-**Repo:** https://github.com/YOUR-USERNAME/unified-customer-data-stream-backlog
+**Repo:** https://github.com/EnnerG/unified-customer-data-stream-backlog
 
 ---
 
 ## 🔹 2. Customer Interaction Data Stream — Data Lifecycle Map
 A senior-level mapping of ingestion, storage, transformation, governance, and consumption for a customer interaction data stream.
 
-**Repo:** https://github.com/YOUR-USERNAME/customer-interaction-data-lifecycle
+**Repo:** https://github.com/EnnerG/customer-interaction-data-lifecycle
 
 ---
 
 ## 🔹 3. Customer Insights Data Stream — One-Page Product Brief
 An executive-ready product brief showcasing strategic framing, success metrics, and cross-functional alignment.
 
-**Repo:** https://github.com/YOUR-USERNAME/customer-insights-data-stream-brief
+**Repo:** https://github.com/EnnerG/customer-insights-data-stream-brief
 
 ---
 
