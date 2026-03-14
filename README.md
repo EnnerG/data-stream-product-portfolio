@@ -1,3 +1,19 @@
+## 📊 Product Owner • Data Stream — Mini Portfolio
+
+A curated set of fast, high‑impact projects demonstrating product ownership, data lifecycle expertise, and cross‑functional communication — aligned to modern data product roles.
+
+### 🔹 Unified Customer Data Stream — Mini Product Backlog
+A concise, prioritized backlog demonstrating agile delivery, user story refinement, and data product requirements.
+➡️ Repo: `unified-customer-data-stream-backlog`
+
+### 🔹 Customer Interaction Data Stream — Data Lifecycle Map
+A clear, senior‑level mapping of ingestion, governance, transformation, and consumption for a customer data stream.
+➡️ Repo: `customer-interaction-data-lifecycle`
+
+### 🔹 Customer Insights Data Stream — One‑Page Product Brief
+An executive‑ready product brief showcasing strategic framing, success metrics, and cross‑functional alignment.
+➡️ Repo: `customer-insights-data-stream-brief`
+
 # 📊 Product Owner • Data Stream Portfolio
 
 Welcome to my curated portfolio showcasing product ownership, data lifecycle expertise, and cross-functional leadership. Each project is intentionally scoped, fast to review, and aligned to modern data product roles.
